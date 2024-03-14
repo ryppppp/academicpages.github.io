@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "任奕澎"
-  pronouns         : "he"  
-  bio              : "不会说相声的天津人"
-  location         : "Tianjin"
+  name             : "Ren Yipeng"
+  pronouns         : #"he"  
+  bio              : "research gate"
+  location         : "Tianjin，China"
   employer         : "Nanjing University"
   uri              : # URL
   email            : "none@example.org" 
