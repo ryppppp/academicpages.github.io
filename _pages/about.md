@@ -13,7 +13,7 @@ I am very fortunate to be advised by XXX of XXX Lab from [School of electronic e
 
 
 [Email](mailto:231180090@smail.nju.edu.cn) 
-[Wechat](../images/wechat.jpg)
+
 ————————————————
 
                    
