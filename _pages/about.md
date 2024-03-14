@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a first year undergraduate student from [School of EE](https://ese.nju.edu.cn/), [Nanjing  University](https://www.nju.edu.cn/). My research interest includes electronic engineering, machine learning, and computational photography.
 
-I am very fortunate to be advised by [Prof. L](https://www.XXX.com/) of XXX Lab from [School of electronic engineering](https://cs.pku.edu.cn/), Peking University. 
+I am very fortunate to be advised by XXX of XXX Lab from [School of electronic engineering](https://cs.pku.edu.cn/). 
 
 
 [Email](mailto:231180090@smail.nju.edu.cn) 
