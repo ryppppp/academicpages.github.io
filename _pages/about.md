@@ -12,7 +12,8 @@ I'm a first year undergraduate student from [School of EE](https://ese.nju.edu.c
 I am very fortunate to be advised by [Prof. L](https://www.XXX.com/) of XXX Lab from [School of electronic engineering](https://cs.pku.edu.cn/), Peking University. 
 
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](mailto:231180090@smail.nju.edu.cn) 
+[Wechat](../images/wechat.jpg)
 ————————————————
 
                    
